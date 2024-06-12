@@ -19,7 +19,7 @@
 		<updated>2024-06-12T01:20:20Z</updated>
 		<id>https://example.com/post/</id>
 		<content xml:lang="en" type="html"
-			>&lt;p&gt;Check out my &lt;a href=&quot;https://example.com/&quot;&gt;home page&lt;/a&gt;&lt;/p&gt;
+			>&lt;p&gt;Check out my &lt;a href=&quot;https://example.com/index.md&quot;&gt;home page&lt;/a&gt;&lt;/p&gt;
 </content
 		>
 	</entry>

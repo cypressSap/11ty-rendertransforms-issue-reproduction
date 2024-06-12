@@ -2,7 +2,7 @@
 	"name": "11ty-rendertransforms-issue-reproduction",
 	"type": "module",
 	"devDependencies": {
-		"@11ty/eleventy": "11ty/eleventy#4640413",
+		"@11ty/eleventy": "11ty/eleventy#fd6ff40",
 		"@11ty/eleventy-plugin-rss": "^1.2.0"
 	}
 }
